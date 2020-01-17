@@ -21,7 +21,7 @@
     "slug": {
       "type": "string",
       "unique": true,
-      "required": true
+      "required": false
     }
   }
 }
